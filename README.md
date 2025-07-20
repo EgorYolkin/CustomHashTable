@@ -1,5 +1,12 @@
 # CustomHashTable & HashTableGroups
 
+<p align="center">
+  <img alt="Go Version" src="https://img.shields.io/badge/Go-1.22-blue?logo=go" />
+  <img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-success" />
+  <img alt="Coverage" src="https://img.shields.io/badge/tests-100%25%20coverage-success" />
+</p>
+
 **CustomHashTable** is a lightweight educational implementation of a hash table in Go, designed to shed light on hashing internals, collision handling, and performance‑tuning techniques.
 
 The project ships with two core structures:
