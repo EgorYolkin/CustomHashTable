@@ -1,6 +1,6 @@
 # CustomHashTable & HashTableGroups
 
-<p align="center">
+<p align="left">
   <img alt="Go Version" src="https://img.shields.io/badge/Go-1.22-blue?logo=go" />
   <img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen" />
   <img alt="License" src="https://img.shields.io/badge/License-MIT-success" />
